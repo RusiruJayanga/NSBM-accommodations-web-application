@@ -163,7 +163,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </script>
 
 <!-- map -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBOmft78W-0rx-pTxxnvNEmcrmC8WQsIzA&callback=initMap" async defer></script>
+<script  async defer></script>
             </div>
           </div>
         </div>
