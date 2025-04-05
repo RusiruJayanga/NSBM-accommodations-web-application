@@ -131,7 +131,7 @@
 </script>
 </div>
 <!-- Load the Google Maps JavaScript API -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBOmft78W-0rx-pTxxnvNEmcrmC8WQsIzA&callback=initMap"  async defer></script>
+<script   async defer></script>
 </table>
 </body>
 </html>
