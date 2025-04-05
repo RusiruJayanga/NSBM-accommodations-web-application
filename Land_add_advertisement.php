@@ -52,7 +52,7 @@
   <link href="css3/style.css" rel="stylesheet" />
 
      <!-- map -->
-     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBOmft78W-0rx-pTxxnvNEmcrmC8WQsIzA&callback=initMap"  async defer></script>
+     <script   async defer></script>
     <style>
         #map {
             height: 100%;
